@@ -1,4 +1,14 @@
+# About
+svartkonst is a group of developers embarking on projects that truly ignites our spririt, it can be in any industry and using any technology or programming language. We want the project to contain a lot of passion and hopefully we can make software solutions that makes the world little better aswell.
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/79652716/202530315-99680608-f745-45e1-af50-7c9730fe187d.png" width="250">
+## Projects
+### <div align="left">
+<img src="https://user-images.githubusercontent.com/79652716/202530315-99680608-f745-45e1-af50-7c9730fe187d.png" width="50">
 </div>
+FollowHealth is an AI powered application aimed to make medical care more equal to all swedish citizens. 
+
+### <div align="left">
+<img src="https://user-images.githubusercontent.com/79652716/202530315-99680608-f745-45e1-af50-7c9730fe187d.png" width="50">
+</div>
+
+Hue is a software for analysing how well a products package can be recycled. Choices the package designers do impacts how well the material can be recycled. Hue aims the help package designers make concious choices and make more environmentally friendly product packaging. 
