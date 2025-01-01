@@ -1,5 +1,5 @@
 # About
-Svartkonst is a group of software developers embarking on projects that truly ignites our spririt, it can be in any industry and using any technology or programming language. Our only requirement is that the project contains a lot of passion and hopefully we can make software solutions that make the world little better.
+Svartkonst is a group of software developers embarking on projects that truly ignites their spririt, it can be in any industry and using any technology or programming language. Our only requirement is that the project contains a lot of passion and hopefully we can make software solutions that make the world little better.
 
 ## Projects
 
