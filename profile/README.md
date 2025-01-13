@@ -3,7 +3,7 @@ Svartkonst is a group of software developers embarking on projects that truly ig
 
 ## Projects
 
-### <div align="left"><img src="https://github.com/svartkonst/organization-docs/blob/main/logo-outline.svg" width="40"></div>
+### <div align="left"><img src="https://raw.githubusercontent.com/svartkonst/organization-docs/refs/heads/main/logo-outline.svg?token=GHSAT0AAAAAAC45ZUYIZHEIR6LGL3PQBE6KZ4FA3GQ" width="40"></div>
 FollowHealth is an AI powered application aimed to make medical care more equal and equally accessible to all swedish citizens. 
 
 ##
